@@ -1,7 +1,7 @@
 # scraddit
 Reddit scrapper written in Python that downloads images from given subreddits
 
-**Work in progress**
+**Caution: Work in progress**
 
 This module depends on **BeautifulSoup** and **requests**
 
