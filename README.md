@@ -1,10 +1,10 @@
 # scraddit
 Reddit scrapper written in Python that downloads images from given subreddits
 
-This module depends on BeautifulSoup and requests.
+This module depends on **BeautifulSoup** and **requests**
 
 ## How to setup and run
-- Install BeautifulSoup package ('pip install bs4')
+- Install **BeautifulSoup** package ('pip install bs4')
 - Change *page_url* in *reddit-scrapper.py* to the link of the subreddit you want to scrap
 - Download and run *reddit-scrapper.py* ('python yourlocation\reddit-scrapper.py')
 
